@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:carrot",
+          "components": {
+            "minecraft:custom_data": {
+              "wshorse":true
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mcdnc:wshorse"
+  }
+}

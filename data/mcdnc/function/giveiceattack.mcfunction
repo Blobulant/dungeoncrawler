@@ -1,0 +1,1 @@
+give @p light_blue_dye[custom_name={"bold":false,"color":"blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Ice Power","underlined":false},custom_data={ia:true},consumable={consume_seconds:1000000,animation:"none",has_consume_particles:false},food={nutrition:0,saturation:0,can_always_eat:true}]

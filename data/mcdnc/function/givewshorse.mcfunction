@@ -1,0 +1,1 @@
+give @s carrot[custom_name={"bold":false,"color":"dark_green","italic":false,"obfuscated":false,"strikethrough":false,"text":"Wild Shape: Horse","underlined":false},custom_data={wshorse:true},consumable={consume_seconds:1000000,animation:"none",has_consume_particles:false},food={nutrition:0,saturation:0,can_always_eat:true}]

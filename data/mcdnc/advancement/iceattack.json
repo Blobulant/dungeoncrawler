@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "light_blue_dye",
+          "components": {
+            "minecraft:custom_data": {
+              "ia":true
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mcdnc:iceattack"
+  }
+}

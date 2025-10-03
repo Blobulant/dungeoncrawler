@@ -1,0 +1,1 @@
+give @p red_dye[custom_name={"bold":false,"color":"blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Heal Pool","underlined":false},custom_data={healpool:true},consumable={consume_seconds:1000000,animation:"none",has_consume_particles:false},food={nutrition:0,saturation:0,can_always_eat:true}]
