@@ -1,0 +1,1 @@
+say Current tags: ia (ice powers), druid (druid powers). Use /tag @s [INSERT TAG] to give yourself the items.
